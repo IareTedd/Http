@@ -1,0 +1,26 @@
+{
+  "name": "iaretedd/http",
+  "description": "Eventually this library may have some useful HTTP-related helpers, but currently there's only HTTP response status codes.",
+  "keywords": ["http", "http response", "http response status", "http status", "http code"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel K",
+      "email": "pavelk@pulsr.cc",
+      "homepage": "https://pulsr.cc"
+    }
+  ],
+  "require-dev": {
+    "php": ">=7.3",
+    "phpunit/phpunit": "9.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Pulsr\\Http\\": "src/"
+    },
+    "psr-4": {
+      "Pulsr\\Http\\": "src/"
+    }
+  }
+}
