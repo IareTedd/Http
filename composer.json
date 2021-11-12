@@ -17,10 +17,10 @@
   },
   "autoload": {
     "psr-0": {
-      "Pulsr\\Http\\": "src/"
+      "iaretedd\\Http\\": "src/"
     },
     "psr-4": {
-      "Pulsr\\Http\\": "src/"
+      "iaretedd\\Http\\": "src/"
     }
   }
 }
