@@ -2,7 +2,7 @@
   "name": "iaretedd/http",
   "description": "Eventually this library may have some useful HTTP-related helpers, but currently there's only HTTP response status codes.",
   "keywords": ["http", "http response", "http response status", "http status", "http code"],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
